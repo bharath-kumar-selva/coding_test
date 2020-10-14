@@ -18,8 +18,20 @@ Task 1:
       
       * When the code is executed with more than one arguments, it shows too
         many arguments supplied as output.
+        
+
       
-      
+Task 2:
+   To write a shell script to find all the ELF file in a directory and print their 
+   size in ascending order
+   
+   Platform used: Linux
+   Language : Bash
+   
+   Description:
+       * This shell script will list the files with size in ascending order 
+       
+       * This files are not the extension of .elf but the ELF file itself.
   
   
   
